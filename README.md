@@ -15,8 +15,51 @@ Project Link: https://nanomining.in/
 ### Screnshots
 ![1](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/d8285fbf-8738-43d6-921f-9e54956cf995)
 
+![2](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/ed6f644c-cac1-4b48-b70b-967325d6672a)
+###
+
+![3 1](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/e167edbd-116b-4ad9-9f0f-5a2df6e21a32)
+###
+
+###
+![3](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/cb368709-cd6f-4141-9c53-30e569b4ee01)
+###
+
+![3 2](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/00c32bd0-9991-4d90-a98c-20ef75abecd4)
+
+###
+![4](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/423db9c8-6031-4995-8cf5-d7204c434779)
+
+###
+![5](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/35fdc55e-82e9-41a1-abba-e4523193adc1)
+
+###
+![6](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/5c5a4dee-f2cf-4e81-906b-22eb2390c36e)
+
+###
+![9](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/7856c79b-3820-466b-a19c-11f07166e3ca)
 
 ###
 
-![2](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/ed6f644c-cac1-4b48-b70b-967325d6672a)
+![11](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/65f9da04-4b69-41f2-b341-8dbc8df465b3)
+
+###
+
+![12](https://github.com/Muhammad-ijazCRT/nanomining-Laravel-cryptocurrency-mining/assets/75518471/91858fda-4c0c-44ec-ae04-9d9e5521d25a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
