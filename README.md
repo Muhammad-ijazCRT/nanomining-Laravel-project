@@ -1,4 +1,6 @@
-# nanomining-Laravel-cryptocurrency-mining
+# Project Link: https://nanomining.in/
+
+### nanomining-Laravel-cryptocurrency-mining
 
 
 I'm excited to share my recent project, NanoMining.in, which stands as a testament to my expertise as a developer in the field of crypto mining. This platform represents the culmination of my dedication to crafting innovative solutions that push the boundaries of what's possible in the digital landscape.
