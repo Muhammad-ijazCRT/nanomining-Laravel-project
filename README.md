@@ -1,4 +1,4 @@
-# Project Link: https://nanomining.in/
+## Project Link: https://nanomining.in/
 
 ### nanomining-Laravel-cryptocurrency-mining
 
